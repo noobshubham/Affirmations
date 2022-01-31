@@ -8,6 +8,12 @@ Introduction
 Affirmations is a simple app that displays ten positive affirmations in a scrolling list as text and graphics.
 
 
+Pre-requisites
+--------------
+
+- Complete [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) of [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+
+
 What you'll learn
 --------------
 
